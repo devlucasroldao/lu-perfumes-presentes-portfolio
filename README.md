@@ -198,17 +198,7 @@ Este projeto representa minha capacidade de:
 📧 Aberto a oportunidades — entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasroldao)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlucasroldao)
-
----
-
-## 📝 Descrição curta (para o campo "About" do repositório GitHub)
-
-```
-E-commerce real de perfumes e kits presenteáveis — Next.js 14, Supabase, Vercel.
-Projeto pessoal e portfólio desenvolvido para cliente real.
-Código-fonte privado.
-```
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/devlucasroldao/)
 
 ---
 
