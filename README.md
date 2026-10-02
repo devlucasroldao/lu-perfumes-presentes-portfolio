@@ -8,7 +8,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 > ⚠️ **Repositório de portfólio** — o código-fonte completo é privado.
-> Screenshots, funcionalidades e arquitetura estão documentados abaixo.
+> Funcionalidades e arquitetura estão documentadas abaixo.
 
 ---
 
@@ -19,20 +19,6 @@ Este é um projeto **pessoal, real e de portfólio** que nasceu de uma necessida
 Decidi resolver isso de verdade. Não um projeto fictício para o portfólio. Um produto real, com cliente real, com problema real.
 
 O resultado é um **mini e-commerce completo** com catálogo, kits personalizados, integração com WhatsApp, sistema de favoritos, histórico de pedidos e painel administrativo — tudo construído do zero com tecnologias modernas.
-
----
-
-## 🖼️ Screenshots
-
-> *Prints e GIFs serão adicionados em breve.*
-
-<!-- Adicionar prints aqui:
-![Home](./screenshots/home.png)
-![Catálogo](./screenshots/catalogo.png)
-![Produto](./screenshots/produto.png)
-![Mobile](./screenshots/mobile.png)
-![Admin](./screenshots/admin.png)
--->
 
 ---
 
@@ -68,7 +54,7 @@ O resultado é um **mini e-commerce completo** com catálogo, kits personalizado
 | Camada | Tecnologia | Decisão |
 |---|---|---|
 | **Frontend** | Next.js 14 (Pages Router) | SSR nativo, deploy simples, ecossistema maduro |
-| **Linguagem** | JavaScript puro | Sem overhead de TypeScript para projeto de escala atual |
+| **Linguagem** | JavaScript | Projeto iniciado antes de eu adotar TypeScript, que passei a usar nos projetos seguintes (Conecte Telecom, Helena Lima) |
 | **Estilo** | CSS-in-JS (objetos inline) | Colocação garantida, sem conflitos de classe |
 | **Banco de dados** | Supabase (PostgreSQL) | BaaS completo: auth, storage e DB em um só lugar |
 | **Autenticação** | Supabase Auth | Integração nativa com o banco, sem configuração extra |
