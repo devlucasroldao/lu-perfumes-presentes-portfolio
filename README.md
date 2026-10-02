@@ -156,10 +156,6 @@ Cada decisão técnica neste projeto foi tomada por mim. A IA acelerou a execuç
 | **v4** | Central de catálogo (Airtable-style), importação com IA, temas sazonais |
 | **v5** | Migração visual (Com Carinho, Lu), splash screen, bottom nav, paleta rosê |
 
-> A versão anterior do projeto está arquivada em
-> [lu-perfumes (v1)](https://github.com/devlucasroldao/lu-perfumes)
-> — mostrando a evolução real do código ao longo do tempo.
-
 ---
 
 ## 📚 Contexto Acadêmico
