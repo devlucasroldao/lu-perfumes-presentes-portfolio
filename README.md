@@ -16,7 +16,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este é um projeto **pessoal, real e de portfólio** que nasceu de uma necessidade genuína: minha mãe, Lu, revende perfumes e cosméticos há anos em Arroio do Sal — tudo no papel, sem organização, sem catálogo digital.
+Este é um projeto **real** que nasceu de uma necessidade concreta: uma loja de perfumes e cosméticos de Arroio do Sal vendia há anos com tudo no papel, sem organização e sem catálogo digital.
 
 Decidi resolver isso de verdade. Não um projeto fictício para o portfólio. Um produto real, com cliente real, com problema real.
 
